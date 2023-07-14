@@ -44,6 +44,7 @@ body{
 .logo{
     height: 55px;
 }
+/*easiest way to center s div and makeit responsive*/
 .text-box{
     position: absolute;
     top: 40%;
